@@ -1,0 +1,26 @@
+{
+  "name": "nw-favicon",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Favicon assets for NewsWrench.com",
+  "main": "dst/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswrench/nw-favicon.git"
+  },
+  "keywords": [
+    "favicon",
+    "NewsWrench",
+    "artwork",
+    "RealFaviconGenerator"
+  ],
+  "author": "James Devlin <james@newswrench.com> (https://newswrench.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/newswrench/nw-favicon/issues"
+  },
+  "homepage": "https://github.com/newswrench/nw-favicon#readme"
+}
