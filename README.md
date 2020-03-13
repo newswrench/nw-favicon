@@ -6,6 +6,7 @@ Generated with [RealFaviconGenerator.net][1] from the [512px version of the News
 
 - `src/`: source logo file
 - `dst/`: generated favicon files
+- `dst/html/`: integration markup
 
 ## License
 
