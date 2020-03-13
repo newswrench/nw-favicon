@@ -1,5 +1,5 @@
     PRIVATE SOFTWARE (UNLICENSED)
-    Copyright (c) 2020 | NewsWrench, LLC
+    Copyright (c) 2020 | James Devlin
     --------------------------------------
     All rights reserved. Unauthorized use
     or access of this project is forbidden
